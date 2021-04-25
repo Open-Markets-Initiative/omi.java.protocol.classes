@@ -14,7 +14,7 @@ import java.util.ArrayList;
 * Java parser for Asx Securities Itch Ntp 1.05 protocol
 * 
 * @version 1.0
-* @since 04/25/2021 15:26:15
+* @since 04/25/2021 16:10:25
 */
 
 public class AsxSecuritiesNtpItchv105 {
