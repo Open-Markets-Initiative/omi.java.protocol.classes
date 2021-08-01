@@ -25,9 +25,9 @@ Asx: [website](https://www.asx.com.au "Go to Australian Securities Exchange")
 [Omi.Glossary.Testing.Beta]: https://github.com/Open-Markets-Initiative/Directory/blob/master/Glossary/Testing.md "Testing Status: Protocol has not been tested and structure is speculative"
 [Omi.Glossary.Testing.Untested]: https://github.com/Open-Markets-Initiative/Directory/blob/master/Glossary/Testing.md "Testing Status: Protocol has not been tested on live data"
 
-[Asx.Securities.T24.Itch.v1.13.Java]: https://github.com/Open-Markets-Initiative/omi.java.classes/blob/main/src/main/java/com/omi/asx/AsxSecuritiesT24Itchv113.java "Asx Securities T24 Itch v1.13 Java Classes"
+[Asx.Securities.T24.Itch.v1.13.Java]: https://github.com/Open-Markets-Initiative/omi.java.protocol.classes/blob/main/src/main/java/com/omi/asx/AsxSecuritiesT24Itchv113.java "Asx Securities T24 Itch v1.13 Java Classes"
 [Asx.Securities.T24.Itch.v1.13.Pdf]: https://github.com/Open-Markets-Initiative/Directory/blob/master/Specifications/Asx/Asx.Securities.T24.Itch.v1.13.pdf "Australian Securities Exchange 1.13 Pdf"
-[Asx.Securities.SR8.Itch.v2.0.Java]: https://github.com/Open-Markets-Initiative/omi.java.classes/blob/main/src/main/java/com/omi/asx/AsxSecuritiesSR8Itchv20.java "Asx Securities SR8 Itch v2.0 Java Classes"
+[Asx.Securities.SR8.Itch.v2.0.Java]: https://github.com/Open-Markets-Initiative/omi.java.protocol.classes/blob/main/src/main/java/com/omi/asx/AsxSecuritiesSR8Itchv20.java "Asx Securities SR8 Itch v2.0 Java Classes"
 [Asx.Securities.SR8.Itch.v2.0.Pdf]: https://github.com/Open-Markets-Initiative/Directory/blob/master/Specifications/Asx/Asx.Securities.SR8.Itch.v2.0.pdf "Australian Securities Exchange 2.0 Pdf"
-[Asx.Securities.Ntp.Itch.v1.05.Java]: https://github.com/Open-Markets-Initiative/omi.java.classes/blob/main/src/main/java/com/omi/asx/AsxSecuritiesNtpItchv105.java "Asx Securities Ntp Itch v1.05 Java Classes"
+[Asx.Securities.Ntp.Itch.v1.05.Java]: https://github.com/Open-Markets-Initiative/omi.java.protocol.classes/blob/main/src/main/java/com/omi/asx/AsxSecuritiesNtpItchv105.java "Asx Securities Ntp Itch v1.05 Java Classes"
 [Asx.Securities.Ntp.Itch.v1.05.Pdf]: https://github.com/Open-Markets-Initiative/Directory/blob/master/Specifications/Asx/Asx.Securities.Ntp.Itch.v1.05.pdf "Australian Securities Exchange 1.05 Pdf"
