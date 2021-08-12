@@ -36,7 +36,7 @@ Updates are greatly appreciated; however, this entire repository is source gener
 
 | Protocol Count | Generated Lines |
 | --- | --- |
-| 29 | 113,531 |
+| 29 | 113,650 |
 
 Note: Our dissector model is still under rapid development.
 
@@ -51,7 +51,7 @@ List of data requests: [Untested Protocols](https://github.com/Open-Markets-Init
 
 The Open Markets Initiative (Omi) is a group of technologists dedicated to enhancing the stability of electronic financial markets using modern development methods.
 
-For a list of Omi Hft projects: [Omi Projects](https://github.com/Open-Markets-Initiative/Directory/tree/master/Projects "Open Markets Initiative Projects")
+For a list of Omi Hft projects: [Omi Projects](https://github.com/Open-Markets-Initiative/Directory/tree/main/Projects "Open Markets Initiative Projects")
 
 For details of Omi rules and regulations: [Omi Directory](https://github.com/Open-Markets-Initiative/Directory "Open Markets Initiative Directory")
 ## Disclaimer
@@ -60,18 +60,18 @@ Any similarities between existing people, places and/or protocols is purely inci
 
 Enjoy.
 
-[Omi Projects]: https://github.com/Open-Markets-Initiative/Directory/tree/master/Projects "Open Markets Initiative Projects"
-[Omi Rules and Regulations]: https://github.com/Open-Markets-Initiative/Directory/tree/master/License "Open Markets Initiative Rules and Regulations"
+[Omi Projects]: https://github.com/Open-Markets-Initiative/Directory/tree/main/Projects "Open Markets Initiative Projects"
+[Omi Rules and Regulations]: https://github.com/Open-Markets-Initiative/Directory/tree/main/License "Open Markets Initiative Rules and Regulations"
 
-[Omi.Glossary.Testing]: https://github.com/Open-Markets-Initiative/Directory/blob/master/Glossary/Testing.md "Protocol Testing Status"
-[Omi.Glossary.Testing.Verified]: https://github.com/Open-Markets-Initiative/Directory/blob/master/Glossary/Testing.md "Testing Status: Protocol has been tested on live data"
-[Omi.Glossary.Testing.Incomplete]: https://github.com/Open-Markets-Initiative/Directory/blob/master/Glossary/Testing.md "Testing Status: Protocol has been tested on live data but contains known issues"
-[Omi.Glossary.Testing.Beta]: https://github.com/Open-Markets-Initiative/Directory/blob/master/Glossary/Testing.md "Testing Status: Protocol has not been tested and structure is speculative"
-[Omi.Glossary.Testing.Untested]: https://github.com/Open-Markets-Initiative/Directory/blob/master/Glossary/Testing.md "Testing Status: Protocol has not been tested on live data"
+[Omi.Glossary.Testing]: https://github.com/Open-Markets-Initiative/Directory/blob/main/Glossary/Testing.md "Protocol Testing Status"
+[Omi.Glossary.Testing.Verified]: https://github.com/Open-Markets-Initiative/Directory/blob/main/Glossary/Testing.md "Testing Status: Protocol has been tested on live data"
+[Omi.Glossary.Testing.Incomplete]: https://github.com/Open-Markets-Initiative/Directory/blob/main/Glossary/Testing.md "Testing Status: Protocol has been tested on live data but contains known issues"
+[Omi.Glossary.Testing.Beta]: https://github.com/Open-Markets-Initiative/Directory/blob/main/Glossary/Testing.md "Testing Status: Protocol has not been tested and structure is speculative"
+[Omi.Glossary.Testing.Untested]: https://github.com/Open-Markets-Initiative/Directory/blob/main/Glossary/Testing.md "Testing Status: Protocol has not been tested on live data"
 
-[Asx.Directory]: https://github.com/Open-Markets-Initiative/omi.java.protocol.classes/tree/master/Asx "Australian Securities Exchange"
-[Cme.Directory]: https://github.com/Open-Markets-Initiative/omi.java.protocol.classes/tree/master/Cme "Chicago Mercantile Exchange"
-[Nasdaq.Directory]: https://github.com/Open-Markets-Initiative/omi.java.protocol.classes/tree/master/Nasdaq "National Association of Securities Dealers Automated Quotations"
+[Asx.Directory]: https://github.com/Open-Markets-Initiative/omi.java.protocol.classes/tree/main/src/main/java/com/omi/Asx "Australian Securities Exchange"
+[Cme.Directory]: https://github.com/Open-Markets-Initiative/omi.java.protocol.classes/tree/main/src/main/java/com/omi/Cme "Chicago Mercantile Exchange"
+[Nasdaq.Directory]: https://github.com/Open-Markets-Initiative/omi.java.protocol.classes/tree/main/src/main/java/com/omi/Nasdaq "National Association of Securities Dealers Automated Quotations"
 
 [Asx.Securities.Ntp.Itch.v1.05.Java]: https://github.com/Open-Markets-Initiative/omi.java.protocol.classes/blob/main/src/main/java/com/omi/asx/AsxSecuritiesNtpItchv105.java "Asx Securities Ntp Itch v1.05 Java Protocol Classes"
 [Cme.Futures.Mdp3.Sbe.v1.11.Java]: https://github.com/Open-Markets-Initiative/omi.java.protocol.classes/blob/main/src/main/java/com/omi/cme/CmeFuturesMdp3Sbev111.java "Cme Futures Mdp3 Sbe v1.11 Java Protocol Classes"
