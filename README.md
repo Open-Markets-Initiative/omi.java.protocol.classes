@@ -69,9 +69,9 @@ Enjoy.
 [Omi.Glossary.Testing.Beta]: https://github.com/Open-Markets-Initiative/Directory/blob/main/Glossary/Testing.md "Testing Status: Protocol has not been tested and structure is speculative"
 [Omi.Glossary.Testing.Untested]: https://github.com/Open-Markets-Initiative/Directory/blob/main/Glossary/Testing.md "Testing Status: Protocol has not been tested on live data"
 
-[Asx.Directory]: https://github.com/Open-Markets-Initiative/omi.java.protocol.classes/tree/main/src/main/java/com/omi/Asx "Australian Securities Exchange"
-[Cme.Directory]: https://github.com/Open-Markets-Initiative/omi.java.protocol.classes/tree/main/src/main/java/com/omi/Cme "Chicago Mercantile Exchange"
-[Nasdaq.Directory]: https://github.com/Open-Markets-Initiative/omi.java.protocol.classes/tree/main/src/main/java/com/omi/Nasdaq "National Association of Securities Dealers Automated Quotations"
+[Asx.Directory]: https://github.com/Open-Markets-Initiative/omi.java.protocol.classes/tree/main/src/main/java/com/omi/asx "Australian Securities Exchange"
+[Cme.Directory]: https://github.com/Open-Markets-Initiative/omi.java.protocol.classes/tree/main/src/main/java/com/omi/cme "Chicago Mercantile Exchange"
+[Nasdaq.Directory]: https://github.com/Open-Markets-Initiative/omi.java.protocol.classes/tree/main/src/main/java/com/omi/nasdaq "National Association of Securities Dealers Automated Quotations"
 
 [Asx.Securities.Ntp.Itch.v1.05.Java]: https://github.com/Open-Markets-Initiative/omi.java.protocol.classes/blob/main/src/main/java/com/omi/asx/AsxSecuritiesNtpItchv105.java "Asx Securities Ntp Itch v1.05 Java Protocol Classes"
 [Cme.Futures.Mdp3.Sbe.v1.11.Java]: https://github.com/Open-Markets-Initiative/omi.java.protocol.classes/blob/main/src/main/java/com/omi/cme/CmeFuturesMdp3Sbev111.java "Cme Futures Mdp3 Sbe v1.11 Java Protocol Classes"
